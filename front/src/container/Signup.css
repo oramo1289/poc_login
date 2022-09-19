@@ -1,0 +1,7 @@
+.signup {
+    background: var(--withe);
+    border-radius: 4px;
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+}

@@ -1,0 +1,34 @@
+.hello-container {
+    background: white;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    max-width: 1200px;
+    padding: 2%;
+}
+
+.hello-container__giff {
+    margin: auto;
+    width: 35%;
+}
+
+.hello-container__giff__frame {
+    height: 0;
+    padding-bottom: 56.25%;
+    position: relative;
+    width: 100%;
+}
+
+.hello-container__title {
+    color: var(--ligth-blue);
+    font-size: 38px;
+    margin-top: 5%;
+    text-align: center;
+}
+
+.iframe {
+    left: 0;
+    position: absolute;
+    top: 0;
+}
